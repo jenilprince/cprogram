@@ -4,7 +4,6 @@ void max(int arr[5]){
     for (int i=0;i<5;i++){
         if (arr[i]>b){
             b=arr[i];
-            
         }
     }printf("Max value: %d",b);
 }
