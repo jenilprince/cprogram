@@ -4,6 +4,7 @@
         "string.h": "c",
         "ST6.C": "cpp",
         "text_encoding": "c",
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "algorithm": "c"
     }
 }
