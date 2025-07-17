@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    int start=12;
-    int end=200;
+    int start=54;
+    int end=92;
     for (int i=start;i<=end;i++){
         int flag=1;
         int n=i;
