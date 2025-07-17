@@ -16,8 +16,8 @@ int sum_upto(int n){
     }
 }
 int main(){
-    int a=5;
-    int result=Factorial(5);
+    int a=0;
+    int result=Factorial(a);
     printf("%d\n",result);
     int res=sum_upto(a);
     printf("%d\n",res);
