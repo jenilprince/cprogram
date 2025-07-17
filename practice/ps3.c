@@ -5,4 +5,11 @@ int main() {
     for (int i=0;i<5;i++){
         printf("%d",*(pointer+i));
     }
+    printf("\n");
+    int a=5;
+    int *p=&a;
+    int **p1=&p;
+    a++;
+    ++a;
+    printf("%d",++a);
 }
