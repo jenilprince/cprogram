@@ -2,10 +2,11 @@
 int main(){
     int start=0;
     while (start<=10){
-        if(start==5){
+        start=start+1;
+        if(start-1==5){
             continue;
         }
-        printf("%d",start);
-        start=start+1;
+        printf("%d\n",start-1);
+        
     }
 }
