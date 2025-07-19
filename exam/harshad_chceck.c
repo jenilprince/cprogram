@@ -15,5 +15,4 @@ void harshad(int a){
 int main(){
     int num=12;
     harshad(num);
-
 }
